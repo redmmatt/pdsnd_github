@@ -11,5 +11,5 @@ The Bikeshare project is a simple python code which allows user input to control
 Include the files used
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Worked with my colleagues Mike and Juan
 

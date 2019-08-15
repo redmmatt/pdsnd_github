@@ -5,7 +5,7 @@ Created on 8/14/2019
 Bikeshare Project in Python
 
 ### Description
-Describe what your project is about and what it does
+The Bikeshare project is a simple python code which allows user input to control dates and location of some bikeshare data.
 
 ### Files used
 Include the files used
